@@ -1,4 +1,4 @@
-<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="at.back2nature.usp" version="1.2.1">
+<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="at.back2nature.usp" version="1.2.3">
   <name>USP St. Pölten</name>
   <description>USP St. Pölten</description>
   <author href="http://phonegap.com" email="gerald.streimelweger@gmail.com">Gerald Streimelweger</author>
